@@ -40,8 +40,8 @@ This project is a **Retrieval-Augmented Generation (RAG)** system that allows us
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/document-qa-bot.git
-   cd document-qa-bot
+   git clone [https://github.com/your-username/document-qa-bot.git](https://github.com/abhishekabhi779/R1qwenRag)
+   cd rag
    
 
 2. Install dependencies:
